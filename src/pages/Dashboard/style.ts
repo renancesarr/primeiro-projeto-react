@@ -86,10 +86,11 @@ export const Repositories = styled.div`
       width: 64px;
       height: 64px;
       border-radius: 50%;
+      margin-right: 16px;
     }
 
     div {
-      margin-left: 0 16px;
+      margin-left: 0px 16px;
       flex: 1;
       strong {
         font-size: 20px;
